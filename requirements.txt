@@ -12,6 +12,7 @@ numpy
 optuna
 pandas
 pip
+plotnine
 python-dotenv
 scikit-learn
 tqdm
